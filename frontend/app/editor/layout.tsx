@@ -1,0 +1,2 @@
+import {RoleDashboardLayout} from "@/components/role-dashboard-layout";
+export default function EditorLayout({children}:{children:React.ReactNode}){return <RoleDashboardLayout role="editor" title="Editor Studio" items={[{href:"/editor",label:"Journey & CMS",icon:"▣"},{href:"/editor/activity",label:"Activity Log",icon:"◷"},{href:"/editor/blog",label:"Blog CMS",icon:"✦"}]}>{children}</RoleDashboardLayout>}

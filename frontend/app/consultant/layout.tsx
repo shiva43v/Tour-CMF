@@ -1,0 +1,2 @@
+import {RoleDashboardLayout} from "@/components/role-dashboard-layout";
+export default function ConsultantLayout({children}:{children:React.ReactNode}){return <RoleDashboardLayout role="consultant" title="Consultant Studio" items={[{href:"/consultant",label:"Live Journeys",icon:"▣"},{href:"/consultant/enquiries",label:"Enquiries & CRM",icon:"◌"},{href:"/consultant/quotes",label:"Quote Builder",icon:"₹"},{href:"/consultant/activity",label:"Activity Log",icon:"◷"}]}>{children}</RoleDashboardLayout>}
