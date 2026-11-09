@@ -105,4 +105,7 @@ Start from `.env.example`.
 
 If no AI key is configured, the application uses its development fallback logic for requirement extraction and draft generation.
 
+<img width="1881" height="833" alt="Screenshot 2026-11-09 163033" src="https://github.com/user-attachments/assets/7c9b17f1-91fe-4bcb-aa07-ed38bbfbcadc" />
+<img width="1920" height="877" alt="Screenshot 2026-11-09 163122" src="https://github.com/user-attachments/assets/dd6a696b-7f86-4ace-ac5e-7db49d315cac" />
+
 
